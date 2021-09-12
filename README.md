@@ -1,5 +1,5 @@
 # Satellite Data Download
-## _Sanjiban Roy_
+## _By Sanjiban Roy_
 
 [![N|Solid](https://upload.wikimedia.org/wikipedia/commons/1/10/Apache_HTTP_server_logo_%282019-present%29.svg)](https://nodesource.com/products/nsolid)
 
