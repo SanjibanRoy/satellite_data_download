@@ -35,7 +35,7 @@ your preferred browser.
 
 ## License
 
-MIT
+Apache
 
 **Free Software, Hell Yeah!**
 
