@@ -21,7 +21,8 @@ Satellite Data Download requires Apache Web Server or XAMPP to run.
 Install the dependencies and devDependencies and start the server.
 
 ```sh
-upload .sql file
+Upload .sql file in the database
+Start apache server
 run the page on browser
 ```
 
